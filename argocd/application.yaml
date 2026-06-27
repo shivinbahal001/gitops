@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/<YOUR_GITHUB_USERNAME>/gitops.git
+    repoURL: https://github.com/shivinbahal001/gitops.git
     targetRevision: main
     path: apps/python-app
 
